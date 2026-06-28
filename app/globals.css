@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: "HY QiHei";
-  src: url("/fonts/HYQiHei_40S.ttf") format("truetype");
+  src: url("/fonts/HYQiHei_50S.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -20,22 +20,6 @@
   font-family: "HY QiHei";
   src: url("/fonts/HYQiHei_70S.ttf") format("truetype");
   font-weight: 700;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "HY QiHei";
-  src: url("/fonts/HYQiHei_80S.ttf") format("truetype");
-  font-weight: 800;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "HY QiHei";
-  src: url("/fonts/HYQiHei_90S.ttf") format("truetype");
-  font-weight: 900;
   font-style: normal;
   font-display: swap;
 }

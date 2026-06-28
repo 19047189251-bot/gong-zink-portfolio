@@ -151,7 +151,7 @@ export const projects: Project[] = [
     coverImageAlt: "Shadow cover image",
     images: {
       hero: {
-        src: "/images/projects/shadow/01-color/01.png",
+        src: "/images/projects/shadow/01-color/01.webp",
         alt: "Shadow - 01 color 01",
       },
       stills: [
@@ -300,7 +300,7 @@ export const projects: Project[] = [
           alt: "Temple In The Snow image 05",
         },
         {
-          src: "/images/projects/temple-in-the-snow/06.png",
+          src: "/images/projects/temple-in-the-snow/06.webp",
           alt: "Temple In The Snow image 06",
         },
         {
@@ -312,7 +312,7 @@ export const projects: Project[] = [
           alt: "Temple In The Snow image 08",
         },
         {
-          src: "/images/projects/temple-in-the-snow/09.png",
+          src: "/images/projects/temple-in-the-snow/09.webp",
           alt: "Temple In The Snow image 09",
         },
       ],
@@ -384,7 +384,7 @@ export const projects: Project[] = [
           alt: "Miscellaneous - 01 fivesixseven 12",
         },
         {
-          src: "/images/projects/misc/01-fivesixseven/13.png",
+          src: "/images/projects/misc/01-fivesixseven/13.webp",
           alt: "Miscellaneous - 01 fivesixseven 13",
         },
         {
@@ -396,7 +396,7 @@ export const projects: Project[] = [
           alt: "Miscellaneous - 02 bunbun 02",
         },
         {
-          src: "/images/projects/misc/02-bunbun/03.jpg",
+          src: "/images/projects/misc/02-bunbun/03.webp",
           alt: "Miscellaneous - 02 bunbun 03",
         },
       ],
